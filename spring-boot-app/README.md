@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Zenkins-Zero-To-Hero
+=======
 # Spring Boot based Java web application
  
 This is a simple Sprint Boot based Java application that can be built using Maven. Sprint Boot dependencies are handled using the pom.xml 
@@ -65,3 +68,4 @@ cd sonarqube-9.4.0.54424/bin/linux-x86-64/
 Hurray !! Now you can access the `SonarQube Server` on `http://<ip-address>:9000` 
 
 
+>>>>>>> fb2f2e4 (commiting the files)
